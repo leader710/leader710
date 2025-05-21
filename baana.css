@@ -1,0 +1,164 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.salmo-love{
+    display: flex;
+    justify-content: space-around;
+    background-color: skyblue;
+   padding: 20px;
+}
+
+.salmo-left{
+    color: red;
+    font-size: 25px;
+  position: relative;
+  right: 80px;
+}
+
+.salmo-left span{
+    color: black;
+}
+
+ul{
+    font-size: 30px;
+   display: flex;
+   gap: 50px;
+   list-style: none;
+  align-items: center;
+    
+}
+
+.bnt-login{
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+
+.bnt-singup{
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    background-color: skyblue;
+    color: white;
+    border: 3px solid black;
+    position: relative;
+    left: 30px;
+    border-radius: 8px;
+
+}
+
+
+.main-1{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(15, 23, 238, 0.338);
+}
+
+.salmo-right img{
+    width: 500px;
+    border-radius: 8px;
+    margin-top: 20px;
+
+}
+
+.About h1{
+font-size: 40px;
+font-weight: bold;
+font-family: sans-serif;
+margin-bottom: 20px;
+
+
+}
+
+.About p{
+    width: 300px;
+    color: rgb(63, 62, 62);
+    margin-bottom: 20px;
+    line-height: 25px;
+}
+.About{
+    margin-top: 150px;
+
+}
+.About span{
+    color: red;
+   
+}
+
+.bnt-love{
+    width: 120px;
+    height: 50px;
+    font-size: 25px;
+    background-color: skyblue;
+    color: white;
+   border: none;
+ 
+  
+    border-radius: 8px;
+}  
+
+.parent-box{
+    background-color: rgb(118, 151, 164);
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    gap: 100px
+    ;
+  
+}
+
+
+
+
+.box-show{
+    width: 350px;
+    height: 450px;
+    box-shadow: 0px 10px 30px grey;
+    background-color:white;
+   
+   position: relative;
+   top: 20px;
+   
+   
+}
+
+.box-show img{
+width: 350px;
+height: 320px;
+
+}
+
+.box-show h2{
+    text-align: center;
+    color: skyblue;
+    font-size: 30px;
+}
+.box-show p{
+    text-align: center;
+    color: rgb(232, 97, 97);
+}
+
+.box-show i{
+    font-size: 50px;
+   position: relative;
+   left: 130px;
+   top: 20px;
+   color: red;
+}
+
+.box-show iframe{
+    width: 350px;
+    height: 400px;
+}
+
+
+
+
+
+
+
